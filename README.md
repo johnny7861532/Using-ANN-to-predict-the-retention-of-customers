@@ -6,6 +6,11 @@ Also this model can be use on any case if u want to predict the retention of ur 
 
 But u need to modify a little depend on ur data.
 
+By the limit of my laptop, Im lower some parameters but u can modify depend on ur need.
+
+## Keras document:
+https://keras.io
+
 
 ### More paper about deep learning: 
 http://neuralnetworksanddeeplearning.com/chap2.html
