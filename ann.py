@@ -5,7 +5,7 @@ import pandas as pd
 
 # Importing the dataset
 dataset = pd.read_csv('Churn_Modelling.csv')
-#select the row we need from 3 to 12 
+#select the row we need from 2 to 12 
 #but 3-13 
 X = dataset.iloc[:, 3:13].values
 y = dataset.iloc[:, 13].values
